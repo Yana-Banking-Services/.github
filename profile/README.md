@@ -1,6 +1,6 @@
 # Yana Banking Services (YBS)
 
-Yana Banking Services (YBS) is a licensed fintech company headquartered in Erbil, Iraq, delivering comprehensive electronic payment solutions to banks, government entities, merchants, and institutions nationwide. Established in 2016, YBS has rapidly become a leading provider in Iraq's payment processing sector, offering a diverse range of services tailored to the evolving needs of the financial ecosystem.
+**YBS** is a licensed fintech company headquartered in **Erbil, Iraq**, delivering comprehensive electronic payment solutions to banks, government entities, merchants, and institutions nationwide. Established in 2016, YBS has rapidly become a leading provider in Iraq's payment processing sector, offering a diverse range of services tailored to the evolving needs of the financial ecosystem.
 
 ## 🔐 Security & Compliance
 
@@ -18,6 +18,7 @@ YBS is a principal member of Mastercard and Visa, and a member of UnionPay Inter
 - **Reporting & Reconciliation Tools:** Detailed reporting to streamline financial operations.
 - **E-commerce Solutions:** Secure online checkout systems for merchants.
 - **Bill Payment Systems:** Flexible solutions for government and utility payments.
+- **Salary Domiciliation:** Seamless salary transfer and secure card solutions for government and private sector employees. 
 
 ## 📞 Support
 
