@@ -1,10 +1,12 @@
-# Yana Banking Services (YBS)
+<img src="assets/dafa-logo.png" width="200" title="Dafa Logo" alt="Dafa Logo" />
 
-**YBS** is a licensed fintech company headquartered in **Erbil, Iraq**, delivering comprehensive electronic payment solutions to banks, government entities, merchants, and institutions nationwide. Established in 2016, YBS has rapidly become a leading provider in Iraq's payment processing sector, offering a diverse range of services tailored to the evolving needs of the financial ecosystem.
+---
+
+**Dafa** is a licensed fintech company headquartered in **Erbil, Iraq**, delivering comprehensive electronic payment solutions to banks, government entities, merchants, and institutions nationwide. Established in 2016, Dafa has rapidly become a leading provider in Iraq's payment processing sector, offering a diverse range of services tailored to the evolving needs of the financial ecosystem.
 
 ## 🔐 Security & Compliance
 
-YBS is a principal member of Mastercard and Visa, and a member of UnionPay International. We adhere to stringent security standards, maintaining compliance with PCI DSS and PCI CPP, and implementing advanced 3D Secure protocols to ensure secure and reliable transaction processing.
+Dafa is a principal member of Mastercard and Visa, and a member of UnionPay International. We adhere to stringent security standards, maintaining compliance with PCI DSS and PCI CPP, and implementing advanced 3D Secure protocols to ensure secure and reliable transaction processing.
 
 ## 💼 Our Services
 
